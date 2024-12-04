@@ -33,7 +33,7 @@
    [![My Skills](https://skillicons.dev/icons?i=vue,react,)](https://skillicons.dev)
 
 ### Ferramentas e plataformas:
-   [![My Skills](https://skillicons.dev/icons?i=vscode,npm,vercel,figma)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=vscode,vercel,figma)](https://skillicons.dev)
 
 ### Aprofundando meus conhecimentos em:
    [![My Skills](https://skillicons.dev/icons?i=nodejs,python)](https://skillicons.dev)
