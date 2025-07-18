@@ -47,10 +47,6 @@
  <img height='160'  src="https://github-readme-streak-stats.herokuapp.com/?user=jglucian0&theme=react&hide_border=true" /> 
 </div>
 
-<img src="https://raw.githubusercontent.com/jglucian0/jglucian0/output/snake.svg" alt="Snake animation" />
-
-###
-
 ### Projetos Favoritos
 
 <a href="https://github.com/jglucian0/todo-vue"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=jglucian0&show_icons=true&theme=react&repo=todo-vue"/></a>
