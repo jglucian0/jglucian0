@@ -3,7 +3,6 @@
  
   <div align="left">
 <img src="https://komarev.com/ghpvc/?username=jglucian0&color=blue" alt="Profile views" />
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/jglucian0">
   </div>
 
 <div>
@@ -44,14 +43,17 @@
 <img width='360' src="https://github-readme-stats.vercel.app/api/top-langs/?username=jglucian0&theme=react&show_icons=true&hide_border=true&layout=compact" />  
 
 <div>
-<img height='160' src="https://github-readme-stats.vercel.app/api?username=jglucian0&theme=react&show_icons=true&hide_border=true&count_private=true" />
-<img height='160'  src="https://github-readme-streak-stats.herokuapp.com/?user=jglucian0&theme=react&hide_border=true" /> 
+ <img height='160' src="https://github-readme-stats.vercel.app/api?username=jglucian0&theme=react&show_icons=true&hide_border=true&count_private=true" />
+ <img height='160'  src="https://github-readme-streak-stats.herokuapp.com/?user=jglucian0&theme=react&hide_border=true" /> 
 </div>
 
+<div>
+ <img src="https://raw.githubusercontent.com/jglucian0/jglucian0/output/snake.svg" alt="Snake animation" />
+</div>
 
 ### Projetos Favoritos
 
-<!-- <a href="https://github.com/jglucian0/todo-vue"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=jglucian0&show_icons=true&theme=react&repo=todo-vue"/></a>
+<a href="https://github.com/jglucian0/todo-vue"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=jglucian0&show_icons=true&theme=react&repo=todo-vue"/></a>
 <a href="https://github.com/jglucian0/todo-vue"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=jglucian0&show_icons=true&theme=react&repo=todo-vue"/></a>
 <a href="https://github.com/jglucian0/todo-vue"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=jglucian0&show_icons=true&theme=react&repo=todo-vue"/></a>
 <a href="https://github.com/jglucian0/todo-vue"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=jglucian0&show_icons=true&theme=react&repo=todo-vue"/></a>
