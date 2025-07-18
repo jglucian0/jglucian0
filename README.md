@@ -47,9 +47,9 @@
  <img height='160'  src="https://github-readme-streak-stats.herokuapp.com/?user=jglucian0&theme=react&hide_border=true" /> 
 </div>
 
-<div>
- <img src="https://raw.githubusercontent.com/jglucian0/jglucian0/output/snake.svg" alt="Snake animation" />
-</div>
+<img src="https://raw.githubusercontent.com/jglucian0/jglucian0/output/snake.svg" alt="Snake animation" />
+
+###
 
 ### Projetos Favoritos
 
