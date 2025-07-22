@@ -24,18 +24,21 @@
 </div>
 
 </div>   
-   
-### Tecnologias:
-   [![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github)](https://skillicons.dev)
-       
-### Frameworks e Bibliotecas:             
-   [![My Skills](https://skillicons.dev/icons?i=vue,react,)](https://skillicons.dev)
 
-### Ferramentas e plataformas:
-   [![My Skills](https://skillicons.dev/icons?i=vscode,vercel,figma)](https://skillicons.dev)
+### Linguagens:
+   [![My Skills](https://skillicons.dev/icons?i=python,java,js)](https://skillicons.dev)
+
+### Frameworks e Bibliotecas:             
+   [![My Skills](https://skillicons.dev/icons?i=django,flask)](https://skillicons.dev)
+   
+### Banco de dados:
+   [![My Skills](https://skillicons.dev/icons?i=postgresql,mysql)](https://skillicons.dev)
+
+### Ferramentas e Plataformas:
+   [![My Skills](https://skillicons.dev/icons?i=git,docker,redis,vscode,vercel)](https://skillicons.dev)
 
 ### Aprofundando meus conhecimentos em:
-   [![My Skills](https://skillicons.dev/icons?i=nodejs,python)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=django,java,python)](https://skillicons.dev)
 
 
 ### My Github Stats
@@ -47,9 +50,7 @@
  <img height='160'  src="https://github-readme-streak-stats.herokuapp.com/?user=jglucian0&theme=react&hide_border=true" /> 
 </div>
 
-### Projetos Favoritos
-
-<a href="https://github.com/jglucian0/todo-vue"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=jglucian0&show_icons=true&theme=react&repo=todo-vue"/></a>
-<a href="https://github.com/jglucian0/todo-vue"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=jglucian0&show_icons=true&theme=react&repo=todo-vue"/></a>
-<a href="https://github.com/jglucian0/todo-vue"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=jglucian0&show_icons=true&theme=react&repo=todo-vue"/></a>
-<a href="https://github.com/jglucian0/todo-vue"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=jglucian0&show_icons=true&theme=react&repo=todo-vue"/></a>
+### Projetos em Destaque
+<a href="https://github.com/jglucian0/toy-rental-backend"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=jglucian0&show_icons=true&theme=react&repo=toy-rental-backend"/></a>
+<a href="https://github.com/jglucian0/toy-rental-frontend"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=jglucian0&show_icons=true&theme=react&repo=toy-rental-frontend"/></a>
+<a href="https://github.com/jglucian0/task-manager-cli"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=jglucian0&show_icons=true&theme=react&repo=task-manager-cli"/></a>
