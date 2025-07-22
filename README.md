@@ -7,9 +7,10 @@
 
 <div>
   <ul>
-<li>Olá, que bom te ver por aqui! Sou um profissional em transição de carreira, vindo da área de Telecom e Redes FTTH, agora com foco em me tornar um Desenvolvedor Backend.</li>
-<li>Atualmente, estou aprendendo programação com foco em Python, explorando os fundamentos dessa linguagem e me aprofundando nas bases do desenvolvimento backend.</li>
-<li>Meu foco é aprender continuamente, adquirir uma sólida habilidade resolver problemas e aplicar soluções que façam a diferença em futuros projetos.</li>
+<li>Desenvolvedor Backend Python. Apaixonado por tecnologia e aprendizado constante. Estudando na EBAC com foco em desenvolvimento backend. ☕</li>
+<li>Tenho experiência prática com criação e manutenção de aplicações python, desenvolvimento de APIs RESTful com Django e Django REST Framework, aplicação de regras de negócio e integração com bancos de dados como PostgreSQL.</li>
+<li>Utilizo Git para versionamento, tenho familiaridade com testes automatizados e estou em progresso nos estudos com Docker, CI/CD e arquitetura distribuída.</li>
+<li>Busco atuar em projetos desafiadores, colaborando para entregar soluções escaláveis e bem estruturadas. Valorizo o aprendizado constante, visando melhorar meu código e seguir boas práticas no desenvolvimento com Python.</li>
 </ul>
   </div>                 
 
