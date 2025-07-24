@@ -1,4 +1,4 @@
-## Opa tudo bom, me chamo João Gabriel!
+## 👋 Olá, me chamo João Gabriel!
 
  
   <div align="left">
@@ -36,13 +36,9 @@
    [![My Skills](https://skillicons.dev/icons?i=postgresql,mysql)](https://skillicons.dev)
 
 ### Ferramentas e Plataformas:
-   [![My Skills](https://skillicons.dev/icons?i=git,docker,redis,vscode,vercel)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=git,docker,redis,vscode,vercel,render)](https://skillicons.dev)
 
-### Aprofundando meus conhecimentos em:
-   [![My Skills](https://skillicons.dev/icons?i=django,java,python)](https://skillicons.dev)
-
-
-### My Github Stats
+### Github Stats
     
 <img width='360' src="https://github-readme-stats.vercel.app/api/top-langs/?username=jglucian0&theme=react&show_icons=true&hide_border=true&layout=compact" />  
 
