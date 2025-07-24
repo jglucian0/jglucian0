@@ -1,4 +1,4 @@
-## Sobre Min 
+## Opa tudo bom, me chamo João Gabriel!
 
  
   <div align="left">
@@ -7,7 +7,7 @@
 
 <div>
   <ul>
-<li>Desenvolvedor Backend Python. Apaixonado por tecnologia e aprendizado constante. Estudando na EBAC com foco em desenvolvimento backend. ☕</li>
+<li>Sou desenvolvedor Backend Python. Apaixonado por tecnologia e aprendizado constante. Estudando na EBAC com foco em desenvolvimento backend. ☕</li>
 <li>Tenho experiência prática com criação e manutenção de aplicações python, desenvolvimento de APIs RESTful com Django e Django REST Framework, aplicação de regras de negócio e integração com bancos de dados como PostgreSQL.</li>
 <li>Utilizo Git para versionamento, tenho familiaridade com testes automatizados e estou em progresso nos estudos com Docker, CI/CD e arquitetura distribuída.</li>
 <li>Busco atuar em projetos desafiadores, colaborando para entregar soluções escaláveis e bem estruturadas. Valorizo o aprendizado constante, visando melhorar meu código e seguir boas práticas no desenvolvimento com Python.</li>
