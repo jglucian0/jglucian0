@@ -47,7 +47,8 @@
  <img height='160'  src="https://github-readme-streak-stats.herokuapp.com/?user=jglucian0&theme=react&hide_border=true" /> 
 </div>
 
-### Projetos em Destaque
+### Projetos em Destaque 
+<a href="https://github.com/jglucian0/clone-tabnews"><img   alt="GitHub" src="https://github.com/jglucian0/clone-tabnews"/></a>
 <a href="https://github.com/jglucian0/toy-rental-backend"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=jglucian0&show_icons=true&theme=react&repo=toy-rental-backend"/></a>
 <a href="https://github.com/jglucian0/toy-rental-frontend"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=jglucian0&show_icons=true&theme=react&repo=toy-rental-frontend"/></a>
 <a href="https://github.com/jglucian0/task-manager-cli"><img   alt="GitHub" src="https://github-readme-stats.vercel.app/api/pin/?username=jglucian0&show_icons=true&theme=react&repo=task-manager-cli"/></a>
